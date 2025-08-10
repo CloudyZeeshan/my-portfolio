@@ -1,37 +1,102 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Zeeshan Haider - Portfolio Website
 
-## Getting Started
+A modern, responsive portfolio website built with Next.js, React, and Tailwind CSS.
 
-First, run the development server:
+## ✨ Features
 
+- **Responsive Design** - Works perfectly on all devices
+- **Modern UI/UX** - Beautiful animations and interactions
+- **Dark Theme** - Professional dark color scheme
+- **Contact Form** - Enhanced form with validation and messaging
+- **Project Showcase** - Display your work with beautiful cards
+- **Mobile Navigation** - Smooth mobile menu experience
+- **Performance Optimized** - Fast loading and smooth animations
+
+## 🛠️ Technologies Used
+
+- **Next.js 14** - React framework for production
+- **React 18** - Modern React with hooks
+- **TypeScript** - Type-safe development
+- **Tailwind CSS** - Utility-first CSS framework
+- **CSS Variables** - Dynamic theming support
+- **Responsive Design** - Mobile-first approach
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+ 
+- npm or yarn
+
+### Installation
 ```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/my-portfolio-main.git
+
+# Navigate to project directory
+cd my-portfolio-main
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Build for Production
+```bash
+npm run build
+npm start
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📱 Pages
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Home** - Introduction with video background
+- **About** - Personal information and skills
+- **Projects** - Portfolio showcase
+- **Contact** - Enhanced contact form
 
-## Learn More
+## 🎨 Customization
 
-To learn more about Next.js, take a look at the following resources:
+- Update personal information in component files
+- Modify colors in `tailwind.config.ts`
+- Add new projects in `src/app/project/page.tsx`
+- Customize styling in `src/app/globals.css`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📁 Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+my-portfolio-main/
+├── src/
+│   ├── app/
+│   │   ├── components/     # Reusable components
+│   │   ├── about/         # About page
+│   │   ├── project/       # Projects page
+│   │   ├── contact/       # Contact page
+│   │   └── globals.css    # Global styles
+├── public/                # Static assets
+├── tailwind.config.ts     # Tailwind configuration
+└── package.json          # Dependencies
+```
 
-## Deploy on Vercel
+## 🔧 Recent Updates
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- ✅ Fixed navigation consistency across all pages
+- ✅ Enhanced contact form with better messaging
+- ✅ Improved mobile responsiveness
+- ✅ Added form validation and user feedback
+- ✅ Consistent styling and animations
+- ✅ Professional dark theme design
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-"# First-Porfolio" 
+## 📞 Contact
+
+- **Email**: hello@yourportfolio.com
+- **GitHub**: [Your GitHub Profile]
+- **LinkedIn**: [Your LinkedIn Profile]
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+⭐ **Star this repository if you found it helpful!** 
