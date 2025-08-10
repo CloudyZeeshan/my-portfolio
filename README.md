@@ -30,10 +30,10 @@ A modern, responsive portfolio website built with Next.js, React, and Tailwind C
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/my-portfolio-main.git
+git clone https://github.com/CloudyZeeshan/my-portfolio.git
 
 # Navigate to project directory
-cd my-portfolio-main
+cd my-portfolio
 
 # Install dependencies
 npm install
@@ -65,7 +65,7 @@ npm start
 ## 📁 Project Structure
 
 ```
-my-portfolio-main/
+my-portfolio/
 ├── src/
 │   ├── app/
 │   │   ├── components/     # Reusable components
@@ -80,6 +80,7 @@ my-portfolio-main/
 
 ## 🔧 Recent Updates
 
+- ✅ **Branch Update** - Changed from master to main branch
 - ✅ Fixed navigation consistency across all pages
 - ✅ Enhanced contact form with better messaging
 - ✅ Improved mobile responsiveness
@@ -90,7 +91,7 @@ my-portfolio-main/
 ## 📞 Contact
 
 - **Email**: hello@yourportfolio.com
-- **GitHub**: [Your GitHub Profile]
+- **GitHub**: [CloudyZeeshan](https://github.com/CloudyZeeshan)
 - **LinkedIn**: [Your LinkedIn Profile]
 
 ## 📄 License
@@ -99,4 +100,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-⭐ **Star this repository if you found it helpful!** 
+⭐ **Star this repository if you found it helpful!**
+
+> **Note**: This repository now uses the `main` branch as the default branch instead of `master`. 
